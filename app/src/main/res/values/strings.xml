@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Settings Example</string>
+    <!-- Settings Activity Title -->
+    <string name="title_activity_settings">SettingsActivity</string>
+</resources>
